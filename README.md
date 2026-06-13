@@ -4,7 +4,7 @@
 
 ## What this project does
 This project is a Git and GitHub practice assignment.
-It contains basic Python calculator with add and subtract functions.
+It contains basic Python calculator with add, subtract, multiply and divide functions with error handling.
 
 ## How to run
 ```
