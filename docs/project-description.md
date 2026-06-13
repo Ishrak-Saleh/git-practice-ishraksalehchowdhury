@@ -5,5 +5,3 @@ This project shows basic Git workflows including:
 - Making commits
 - Merging branches
 - Pushing to GitHub
-
-Language: Python
